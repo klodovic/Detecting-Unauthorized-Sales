@@ -26,3 +26,15 @@ EVALUATION CRITERIA
 - Code Quality: Code readability, maintainability, simplicity, and adherence to best practices are essential.
 - Correctness: Your algorithm must accurately determine the maximum number of interviews that can be attended, given the constraints.
 - Efficiency: The solution should be optimized with regard to algorithmic time complexity.
+
+
+<h1>Output</h1>
+
+Unauthorized seller
+![task2-1](https://github.com/klodovic/Detecting-Unauthorized-Sales/assets/61901937/67fed730-0834-4994-bca4-289033ccab71)
+
+
+Authorized seller
+
+![task2-2](https://github.com/klodovic/Detecting-Unauthorized-Sales/assets/61901937/d5175633-9273-4375-a0a5-f4bb03eed8b2)
+
