@@ -38,3 +38,13 @@ Authorized seller</br>
 
 ![task2-2](https://github.com/klodovic/Detecting-Unauthorized-Sales/assets/61901937/d5175633-9273-4375-a0a5-f4bb03eed8b2)
 
+
+Empty request</br>
+
+![task2-4](https://github.com/klodovic/Detecting-Unauthorized-Sales/assets/61901937/c7ef91ed-b676-471f-8147-7f61559ed2e4)
+
+
+Missing data</br>
+
+![taks2-3](https://github.com/klodovic/Detecting-Unauthorized-Sales/assets/61901937/5f0e6d61-87f0-4c8d-a12f-8e94da6d5c79)
+
