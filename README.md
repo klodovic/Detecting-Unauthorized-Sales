@@ -30,11 +30,11 @@ EVALUATION CRITERIA
 
 <h1>Output</h1>
 
-Unauthorized seller
+Unauthorized seller</br>
 ![task2-1](https://github.com/klodovic/Detecting-Unauthorized-Sales/assets/61901937/67fed730-0834-4994-bca4-289033ccab71)
 
 
-Authorized seller
+Authorized seller</br>
 
 ![task2-2](https://github.com/klodovic/Detecting-Unauthorized-Sales/assets/61901937/d5175633-9273-4375-a0a5-f4bb03eed8b2)
 
